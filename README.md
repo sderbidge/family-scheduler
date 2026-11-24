@@ -39,8 +39,8 @@ A full-stack task management application with RESTful API and interactive web in
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
+git clone https://github.com/sderbidge/family-scheduler.git
+cd family-scheduler
 
 # Install backend dependencies
 cd backend

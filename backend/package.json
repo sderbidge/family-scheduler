@@ -1,7 +1,7 @@
 {
-  "name": "taskmaster-backend",
+  "name": "family-scheduler-backend",
   "version": "1.0.0",
-  "description": "Backend API for TaskMaster",
+  "description": "Backend API for Family Scheduler",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
@@ -18,13 +18,3 @@
     "jest": "^29.7.0"
   }
 }
-```
-
-2. **Create `backend/data/` folder** (for the SQLite database)
-
-3. **Create `.gitignore` at root:**
-```
-node_modules/
-.env
-*.db
-.DS_Store
